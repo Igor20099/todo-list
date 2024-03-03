@@ -1,0 +1,23 @@
+.todo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: start;
+    border: 1px solid white;
+    padding: 18px;
+    font-size: 1.2rem;
+    margin-bottom: 8px;
+}
+
+.todo:hover {
+    background-color: white;
+    color:black;
+    transition: all 0.2s ease-out;
+}
+
+.img {
+    width: 24px;
+    height: 24px;
+    cursor: pointer;
+    
+}

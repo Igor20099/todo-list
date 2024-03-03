@@ -1,0 +1,16 @@
+.form {
+    display: flex;
+    
+}
+
+.input {
+    margin-right: 16px;
+    margin-top: 3px;
+    width: 500px;
+    height: 32px;
+    margin-bottom: 8px;
+}
+
+.btn {
+    height: 42px;
+}
